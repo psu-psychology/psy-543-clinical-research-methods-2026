@@ -249,7 +249,7 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ---
 
-![@Aczel2026-k](include/img/aczel-2026-abstr.png)
+![Aczel2026-kx](include/img/aczel-2026-abstr.png)
 
 ## @Aczel2026-kx
 
@@ -320,13 +320,13 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ---
 
-![@Unknown2018-kx aka "Rosie the Riveter"^["The 'We Can Do It!' poster appeared in a few factories in 1943. By J. Howard Miller - U.S. National Archives and Records Administration, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80242715"]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg/1280px-We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg){#fig-rosie width="30%"}
+![@Unknown2018-kx aka "Rosie the Riveter"^["The 'We Can Do It!' poster appeared in a few factories in 1943. By J. Howard Miller - U.S. National Archives and Records Administration, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80242715"]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg/1280px-We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg){#fig-rosie width="40%"}
 
 ---
 
+<p style="text-align:center;">
 ### A conversation about open science
 
-<p style="text-align:center;">
 *Let's keep talking...*</br>
 </br></br></br>
 **Rick Gilmore**</br>
@@ -338,17 +338,6 @@ rog1 AT-SYMBOL psu PERIOD edu</br>
 </p>
 
 # Resources
-
----
-
-```{r}
-#> label: "fig-lecture-notes-qr-code"
-#> fig-cap: "https://psu-psychology.github.io/psy-543-clinical-research-methods-2026/"
-talk_qr <- qrcode::qr_code("https://psu-psychology.github.io/psy-543-clinical-research-methods-2026/")
-plot(talk_qr)
-```
-
-<https://psu-psychology.github.io/psy-543-clinical-research-methods-2026/>
 
 ## Code {.scrollable}
 
