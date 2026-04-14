@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+**/*.quarto_ipynb
+psy-543-clinical-research-methods-2026.Rproj

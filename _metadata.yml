@@ -1,0 +1,22 @@
+format: 
+  revealjs:
+    title: "A conversation about open science"
+    subtitle: "PSY 543 • Spring 2026"
+    author: "Rick Gilmore"
+    institute: "Department of Psychology"
+    footer: "[PSY 543 • Spring 2026](https://github.com/psu-psychology/psy-543-clinical-research-methods-2026) | © 2026 by Rick Gilmore under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    bibliography: [include/bib/psy-543.bib]
+    csl: include/bib/apa.csl
+    theme: [serif, include/css/psu.scss]
+    mainfont: roboto
+    code-fold: true
+    code-tools: true
+    chalkboard: true
+    link-external-icon: true
+    citations-hover: true
+knitr:
+  opts_chunk:
+    fig.path: include/fig/

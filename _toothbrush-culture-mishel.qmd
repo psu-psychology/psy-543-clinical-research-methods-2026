@@ -1,0 +1,46 @@
+## Toothbrush culture
+
+![](https://www.rd.com/wp-content/uploads/2017/02/01-How-Bad-is-it-to-Share-a-Toothbrush-159311405-ABykov-760x506.jpg){fig-align="center"}
+
+---
+
+:::: {.columns}
+::: {.column width=40%}
+
+![Walter Mischel](https://www.psychologicalscience.org/redesign/wp-content/uploads/2019/04/Observer-Online-MayJune19-WalterM-Big.png)
+
+:::
+
+::: {.column width=60%}
+
+>...psychologists tend to treat other peoples’ theories like toothbrushes; no self-respecting individual wants to use anyone else’s.
+
+<p style="text-align:center;">
+@Mischel2011-br
+</p>
+
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+![Walter Mischel](https://www.psychologicalscience.org/redesign/wp-content/uploads/2019/04/Observer-Online-MayJune19-WalterM-Big.png)
+
+:::
+
+::: {.column width=60%}
+
+>The toothbrush culture undermines the building of a genuinely cumulative science, encouraging more parallel play and solo game playing, rather than building on each other’s directly relevant best work.
+
+<p style="text-align:center;">
+@Mischel2011-br
+</p>
+
+:::
+
+::::

@@ -1,0 +1,41 @@
+::: columns
+::: {.column width="60%"}
+> "The first principle is that **you must not fool yourself---and you are the easiest person to fool**. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists."
+
+@Feynman1974-ld
+:::
+
+::: {.column width="40%"}
+![Richard P. Feynman, Wikipedia](https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="60%"}
+> "I'm talking about a specific, extra type of integrity that is not lying, but **bending over backwards to show how you're maybe wrong**, that you ought to do when acting as a scientist. And **this is our responsibility as scientists**, certainly to other scientists, and I think to laymen."
+
+@Feynman1974-ld
+:::
+
+::: {.column width="40%"}
+![Richard P. Feynman, Wikipedia](https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="60%"}
+> "...If you've made up your mind to test a theory, or you want to explain some idea, **you should always decide to publish it whichever way it comes out**. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result."
+
+@Feynman1974-ld
+:::
+
+::: {.column width="40%"}
+```{r, fig.cap="Richard P. Feynman, Wikipedia"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg")
+```
+:::
+:::

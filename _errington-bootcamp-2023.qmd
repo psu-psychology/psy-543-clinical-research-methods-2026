@@ -1,0 +1,91 @@
+
+![[Reproducibility Project: Cancer Biology](https://www.cos.io/rpcb)](include/img/reproducibility-project-cancer-biology.png)
+
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+![Tim Errington, Center for Open Science at the [Open Science Bootcamp 2023](https://penn-state-open-science/bootcamp-2023)](include/img/errington-bootcamp-2023.jpg)
+
+:::
+
+::: {.column width=60%}
+
+>...The initial aim of the project was to repeat 193 experiments from 53 high-impact papers...However, the various barriers and challenges we encountered while designing and conducting the experiments meant that we were only able to repeat 50 experiments from 23 papers...
+
+<p style="text-align:center;">
+@Errington2021-dp
+</p>
+
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+![Tim Errington, Center for Open Science at the [Open Science Bootcamp 2023](https://penn-state-open-science/bootcamp-2023)](include/img/errington-bootcamp-2023.jpg)
+
+:::
+
+::: {.column width=60%}
+
+>...the **data needed to compute effect sizes and conduct power analyses was publicly accessible for just 4 of 193 experiments**...**none of the 193 experiments were described in sufficient detail** in the original paper to enable us to design protocols to repeat the experiments...
+
+<p style="text-align:center;">
+@Errington2021-dp
+</p>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+![Tim Errington, Center for Open Science at the [Open Science Bootcamp 2023](https://penn-state-open-science/bootcamp-2023)](include/img/errington-bootcamp-2023.jpg)
+
+:::
+
+::: {.column width=60%}
+
+>...While authors were extremely or very helpful for 41% of experiments, **they were minimally helpful for 9% of experiments, and not at all helpful (or did not respond to us) for 32% of experiments**...
+
+<p style="text-align:center;">
+@Errington2021-dp
+</p>
+
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width=40%}
+
+![Tim Errington, Center for Open Science at the [Open Science Bootcamp 2023](https://penn-state-open-science/bootcamp-2023)](include/img/errington-bootcamp-2023.jpg)
+
+:::
+
+::: {.column width=60%}
+
+>...This experience draws attention to a basic and fundamental concern about replication – **it is hard to assess whether reported findings are credible**.
+
+<p style="text-align:center;">
+@Errington2021-dp
+</p>
+
+:::
+
+::::
+
+## What the *actual* *F*-test??!
