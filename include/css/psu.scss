@@ -17,9 +17,13 @@ $callout-color-tip: $theme-psu-beaver-blue;
 $callout-color-caution: $theme-psu-lions-roar;
 $callout-color-important: $theme-psu-lion-shrine;
 
+$presentation-heading-color: $theme-psu-beaver-blue;
+
 /*-- scss:rules --*/
 h1 {
   color: $theme-psu-nittany-navy;
+  font-style: italic;
+  text-align: center;
 }
 
 h2, h3, h4, h5, h6 {

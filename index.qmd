@@ -69,7 +69,7 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 # Some questions to ponder
 
-## Where do you store your research data?
+## Where do you store research data?
 
 ![Survey responses from PSU researchers: <https://penn-state-open-science.github.io/survey-fall-2022/>](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-data-storage-places-1.png){#fig-psu-survey-data-storage width="60%"}
 
@@ -101,8 +101,6 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 ![[Pew Research](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)](https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/11/PS_2023.11.14_trust-in-scientists_00-04.png){#fig-sci-worthwhile-for-society fig-align="center"}
 
-## More questions to ponder
-
 ---
 
 ### What proportion of findings in the published scientific literature (in the fields you care about) are *actually true*?
@@ -113,7 +111,9 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 -   50%
 -   30%
 
-## How do we define what "*actually true*" means?
+---
+
+### How do we define what "*actually true*" means?
 
 ---
 
@@ -153,9 +153,9 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 :::
 ::::
 
-## Does this surprise you?
+---
 
-## What factors contribute to irreproducible research? {.scrollable}
+### What factors contribute to irreproducible research? {.scrollable}
 
 ![@baker_1500_2016 Figure G](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figg_HTML.jpg?as=webp){#fig-baker-g .lightbox}
 
@@ -163,7 +163,9 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 {{< include _toothbrush-culture-mishel.qmd >}}
 
-## Do you agree or disagree with Mischel?
+---
+
+### Do you agree or disagree with Mischel?
 
 - Do we treat other people's theories like toothbrushes?
 - Are we building a cumulative psychological science?
@@ -253,10 +255,14 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ## Questions to ponder
 
-- Do you agree that reproducibility relates to trustworthiness?
+::: {.incremental}
+- Twenty-four percent of authors approached made data available to @Aczel2026-kx. Any comments? 
+- Do you agree that reproducibility "support[s] trustworthiness"?
   - Why or why not?
 - Are *your*/*your lab group's* findings reproducible?
   - How do you know?
+
+:::
 
 ---
 
@@ -276,9 +282,15 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ## Questions to ponder
 
-- Should robust findings be detectable via multiple, alternative analyses?
+::: {.incremental}
+- What do you think about "multiverse" analyses?
+- Should robust empirical findings be detectable via multiple, alternative analyses?
   - Why or why not?
+- What does it mean when 1/3 of independent reanalyses "yielded the same result...as the original report"? 
+- What does it mean when 1/4 yielded no effects or the opposite effect?
 
+:::
+ 
 ---
 
 ![@Tyner2026-wt](include/img/tyner-2026-abstr.png)
@@ -300,11 +312,51 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ::: {.incremental}
 - What proportion of findings in the published scientific literature (in the fields you care about) are *actually true*?
-- How does *replicability* relate to whether a finding is *actually true*?
 - What does the (taxpaying, research funding) public expect?
+- How does a finding's *replicability* relate to whether a finding is *actually true*? 
 :::
 
 # Looking forward
+
+## {background-color="black"}
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/child-mortality?tab=line" loading="lazy" style="width: 100%; height: 550px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+@UnknownUnknown-lz
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=line" loading="lazy" style="width: 100%; height: 550px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+@UnknownUnknown-ay
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/share-with-mental-and-substance-disorders?country=OWID_LIC~OWID_HIC~OWID_LMC~OWID_UMC&tab=map" loading="lazy" style="width: 100%; height: 550px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+@UnknownUnknown-xw
+
+## Science as a system of values
+
+:::: {.columns}
+::: {.column width=50%}
+- Evidence
+- Reproducibility, Robustness, Replicability
+- Rigor, Reliability, Reach
+- Transparency, Openness, Honesty
+:::
+::: {.column width=50%}
+::: {.fragment}
+![Richard P. Feynman, Wikipedia](https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg){width="60%"}
+:::
+:::
+::::
+
+---
+
+![@Wikipedia-contributors2025-yz^["Seven blind men and an elephant parable at a Jain temple. By romana klee from usa - sammati tarka prakarana, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=59461928"]](https://upload.wikimedia.org/wikipedia/commons/e/ed/Medieval_Jain_temple_Anekantavada_doctrine_artwork.jpg){width="70%"}
 
 ## Open Science @ Penn State
 
