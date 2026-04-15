@@ -54,6 +54,8 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 - Here's a story...
 - Some questions to ponder
+- The three R's
+- Looking forward
 
 # Here's a story
 
@@ -85,7 +87,7 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 ---
 
-![@Bartlett2024-sy](include/img/ariely-telling-the-truth.png)
+![@Bartlett2024-sy](include/img/ariely-telling-the-truth.png){#fig-arielty-telling}
 
 ---
 
@@ -122,13 +124,22 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 -   No crisis
 -   Don't know
 
-------------------------------------------------------------------------
 
-::: {layout-ncol=2}
+---
+
+:::: {.columns}
+::: {.column width=50%}
 ![@baker_1500_2016](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figd_HTML.jpg?as=webp){#fig-baker-2016-crisis width="100%"}
 
+:::
+::: {.column width=50%}
+
+::: {.fragment}
 ![Survey responses from PSU researchers: <https://penn-state-open-science.github.io/survey-fall-2022/>](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-repro-crisis-your-area-1.png){#fig-psu-survey-crisis}
 :::
+
+:::
+::::
 
 ## {.scrollable}
 
@@ -138,22 +149,15 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 :::
 
 ::: {.column width="50%"}
-![@baker_1500_2016](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figf_HTML.jpg?as=webp){.lightbox width="75%"}
+![@baker_1500_2016](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figf_HTML.jpg?as=webp){.lightbox width="75%" #fig-baker-f}
 :::
 ::::
 
 ## Does this surprise you?
 
-## {.scrollable}
+## What factors contribute to irreproducible research? {.scrollable}
 
-:::: {.columns}
-::: {.column width="50%"}
-### What factors contribute to irreproducible research?
-:::
-::: {.column width="50%"}
-![](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figg_HTML.jpg?as=webp){.lightbox width="87%"}
-:::
-::::
+![@baker_1500_2016 Figure G](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figg_HTML.jpg?as=webp){#fig-baker-g .lightbox}
 
 ---
 
@@ -166,7 +170,7 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 - Should we be?
 - If so, how?
 
-## What is our quest?
+---
 
 ![](https://miro.medium.com/v2/resize:fit:640/1*Nv4oqbfv5IwRSMdLGtFZuA.gif){fig-align="center"}
 
@@ -192,14 +196,14 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 # The three R's
 
-## Pillars
+---
 
 - Findings should be *reproducible*
   - Same data, same code, same results
 - Findings should be *robust*
-  - Same data, new analysis, comparable results
+  - Same data, new analysis, comparable results & conclusions
 - Findings should be *replicable*
-  - New data, comparable results
+  - New data, comparable results & conclusions
 
 ---
 
@@ -215,7 +219,7 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 ---
 
-![@Miske2026-kh Figure 3](include/img/miske-2026-fig-03.png){#fig-miske-2026-fig-03}
+![@Miske2026-kh Figure 3](include/img/miske-2026-fig-03-v2.png){#fig-miske-2026-fig-03}
 
 ---
 
@@ -229,7 +233,7 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 >...The authors of 144 (24.0%, 95% confidence
 interval (CI)=20.8–27.6%) papers made data available to assess reproducibility and,
-for 38 others, we obtained source data to reconstruct the dataset. 
+for 38 others, we obtained source data to reconstruct the dataset.
 
 ## @Miske2026-kh
 
@@ -237,7 +241,7 @@ for 38 others, we obtained source data to reconstruct the dataset.
 papers were rated as precisely reproducible and 105.0 (73.5%, 95% CI=66.4–80.0%)
 were rated as at least approximately reproducible (within 15% of the original effects
 or within 0.05 of original P values) after inverse weighting each of the 551 claims by
-the number of claims per paper. 
+the number of claims per paper.
 
 ## @Miske2026-kh
 
@@ -247,13 +251,33 @@ compared with older papers and for papers from journals that require data sharin
 Implementation of measures to verify that research is reproducible is needed to
 support trustworthiness in the complex enterprise of knowledge production 3,4.
 
+## Questions to ponder
+
+- Do you agree that reproducibility relates to trustworthiness?
+  - Why or why not?
+- Are *your*/*your lab group's* findings reproducible?
+  - How do you know?
+
 ---
 
-![Aczel2026-kx](include/img/aczel-2026-abstr.png)
+![@Aczel2026-kx](include/img/aczel-2026-abstr.png)
+
+---
+
+![@Aczel2026-kx Figure 3](include/img/aczel-2026-fig-03.png)
 
 ## @Aczel2026-kx
 
-![@Aczel2026-kx Figure 3](include/img/aczel-2026-fig-03.png)
+>We found that 34% of the independent reanalyses yielded the same result (within a tolerance region of ±0.05 Cohen’s d) as the original report; with a four times broader tolerance region, this indicator increased to 57%. Of the reanalyses conducted, 74% reached the same conclusion as the original investigation, 24% yielded no effects or inconclusive results and 2% reported the opposite effect. 
+
+## @Aczel2026-kx
+
+>This exploratory study indicates that the common single-path analyses in social and behavioural research should not be simply assumed to be robust to alternative analyses.
+
+## Questions to ponder
+
+- Should robust findings be detectable via multiple, alternative analyses?
+  - Why or why not?
 
 ---
 
@@ -261,29 +285,26 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ---
 
-![giphy.com](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR1dWRrbzN0aTlqYTB4enppYnBpbmdyMHQ2MjJtZHBwaTNrZW5oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MWdaFQEYEicGIkfHU/giphy.gif)
-
-# Looking forward
-
-## Gilmore's experiences
-
 :::: {.columns}
-::: {.column width=50%}
-::: {.incremental}
-- Plan your work, work your plan
-- Murphy's Laws are never broken
-- Quick & dirty is...both
+::: {.column width=60%}
+>Replications showed statistically significant results in the original pattern for 151 of 274 claims (55.1% (95% confidence interval (CI) 49.2–60.9%)) and for 80.8 of 164 papers (49.3% (95% CI 43.8–54.7%)), weighed for replicating multiple claims per paper.
+
+-- @Tyner2026-wt
 :::
-:::
-::: {.column width=50%}
-::: {.incremental}
-- DRY WIT
-  - **D**on't **R**epeat **Y**ourself
-  - **W**rite **I**t **D**own
-- Seeing is believing: Plot your data
-:::
+::: {.column width=40%}
+![giphy.com](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR1dWRrbzN0aTlqYTB4enppYnBpbmdyMHQ2MjJtZHBwaTNrZW5oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MWdaFQEYEicGIkfHU/giphy.gif)
 :::
 ::::
+
+## Questions to ponder
+
+::: {.incremental}
+- What proportion of findings in the published scientific literature (in the fields you care about) are *actually true*?
+- How does *replicability* relate to whether a finding is *actually true*?
+- What does the (taxpaying, research funding) public expect?
+:::
+
+# Looking forward
 
 ## Open Science @ Penn State
 
@@ -299,6 +320,55 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 - Speakers
 - Blog/website (<https://penn-state-open-science.github.io/>)
 - List: l-open-science@lists.psu.edu
+
+---
+
+![https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg](https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg)
+
+---
+
+## Reproducibility first
+
+:::: {.columns}
+::: {.column width=40%}
+- Document your workflows
+- Attend to data quality
+  - Garbage in/garbage out
+:::
+::: {.column width=60%}
+![play-project.org](https://play-project.org/img/overview-project.png){fig-align="right" width="60%"}
+:::
+::::
+
+## Reproducibility first
+
+:::: {.columns}
+::: {.column width=50%}
+- DRY WIT
+  - **Don't** **R**epeat **Y**ourself
+  - **W**rite **I**t **D**own
+- Automate your workflows
+- Visualize before you analyze
+:::
+::: {.column width=50%}
+![](https://quarto.org/quarto.png){width="200px"} \
+![jupyter.org](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg){width="200px" fig-align="right"} \
+![](https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png){width="100px" fig-align="right"} \
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1920px-Matlab_Logo.png?_=20240227214640){width="100px" fig-align="right"} 
+:::
+::::
+
+## Plan your work; work your plan
+
+::: {.incremental}
+- Plan to share
+  - Get IRB approval
+  - Get participant permission
+  - Consider restricted access repositories (e.g., Databrary)
+- Embed data cleaning, curation into ongoing workflows
+  - Organize with a view toward data reuse
+
+:::
 
 # Summing up
 
@@ -316,17 +386,12 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ---
 
-![https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg](https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg)
-
----
-
 ![@Unknown2018-kx aka "Rosie the Riveter"^["The 'We Can Do It!' poster appeared in a few factories in 1943. By J. Howard Miller - U.S. National Archives and Records Administration, Public Domain, https://commons.wikimedia.org/w/index.php?curid=80242715"]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg/1280px-We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg){#fig-rosie width="40%"}
 
 ---
 
+<h3 style="text-align:center;">**A conversation about open science**</h3>
 <p style="text-align:center;">
-### A conversation about open science
-
 *Let's keep talking...*</br>
 </br></br></br>
 **Rick Gilmore**</br>
