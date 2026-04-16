@@ -155,9 +155,22 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 ---
 
-### What factors contribute to irreproducible research? {.scrollable}
-
+:::: {.columns}
+::: {.column width=50%}
+::: {.incremental}
+- Selective reporting
+- Pressure to publish
+- Low statistical power
+- Not replicated enough in original lab
+- Insufficient oversight/mentoring
+- Data, methods, code not available
+:::
+:::
+::: {.column width=50%}
 ![@baker_1500_2016 Figure G](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figg_HTML.jpg?as=webp){#fig-baker-g .lightbox}
+
+:::
+::::
 
 ---
 
@@ -233,36 +246,60 @@ Thank you to NICHD, NIMH, NIDA, NIH OD, NSF, the Alfred P. Sloan Foundation, the
 
 ## @Miske2026-kh
 
->...The authors of 144 (24.0%, 95% confidence
-interval (CI)=20.8–27.6%) papers made data available to assess reproducibility and,
+>...The authors of **144 (24.0%, 95% confidence
+interval (CI)=20.8–27.6%)** papers made data available to assess reproducibility and,
 for 38 others, we obtained source data to reconstruct the dataset.
 
 ## @Miske2026-kh
 
->We assessed 143 out of the 182 available datasets and found that 76.6 (53.6%, 95% CI=45.8–60.7%)
-papers were rated as precisely reproducible and 105.0 (73.5%, 95% CI=66.4–80.0%)
+>We assessed 143 out of the 182 available datasets and found that 76.6 (**53.6%**, 95% CI=45.8–60.7%)
+**papers were rated as precisely reproducible** and 105.0 (73.5%, 95% CI=66.4–80.0%)
 were rated as at least approximately reproducible (within 15% of the original effects
 or within 0.05 of original P values) after inverse weighting each of the 551 claims by
 the number of claims per paper.
 
 ## @Miske2026-kh
 
->We observed higher reproducibility for papers from
-political science and economics compared with other fields, for more recent papers
-compared with older papers and for papers from journals that require data sharing.
-Implementation of measures to verify that research is reproducible is needed to
-support trustworthiness in the complex enterprise of knowledge production 3,4.
+>We assessed 143 out of the 182 available datasets and found that 76.6 (53.6%, 95% CI=45.8–60.7%)
+papers were rated as precisely reproducible and 105.0 (**73.5%**, 95% CI=66.4–80.0%)
+**were rated as at least approximately reproducible** (within 15% of the original effects
+or within 0.05 of original P values) after inverse weighting each of the 551 claims by
+the number of claims per paper.
+
+## @Miske2026-kh
+
+>We observed **higher reproducibility for papers from political science and economics** compared with other fields, for more recent papers compared with older papers and for papers from journals that require data sharing. Implementation of measures to verify that research is reproducible is needed to support trustworthiness in the complex enterprise of knowledge production 3,4.
+
+## @Miske2026-kh
+
+>We observed higher reproducibility for papers from political science and economics compared with other fields, for more recent papers compared with older papers and for papers from journals that require data sharing. **Implementation of measures to verify that research is reproducible is needed to support trustworthiness in the complex enterprise of knowledge production** 3,4.
 
 ## Questions to ponder
 
 ::: {.incremental}
 - Twenty-four percent of authors approached made data available to @Aczel2026-kx. Any comments? 
-- Do you agree that reproducibility "support[s] trustworthiness"?
+- Do you agree that "measures to verify that research is reproducible [are] needed to support trustworthiness"?
   - Why or why not?
-- Are *your*/*your lab group's* findings reproducible?
-  - How do you know?
 
 :::
+
+---
+
+:::: {.columns}
+::: {.column width=50%}
+![@baker_1500_2016](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figi_HTML.jpg?as=webp){#fig-baker-2016-fig-i}
+:::
+::: {.column width=50%}
+- Are *your*/*your lab group's* findings reproducible?
+  - How do you know?
+- Do you require other lab group members to redo analyses?
+
+::: {.callout-important}
+## Verify then publish
+Some journals require pre-publication verification
+:::
+:::
+::::
 
 ---
 
@@ -312,8 +349,8 @@ support trustworthiness in the complex enterprise of knowledge production 3,4.
 
 ::: {.incremental}
 - What proportion of findings in the published scientific literature (in the fields you care about) are *actually true*?
-- What does the (taxpaying, research funding) public expect?
 - How does a finding's *replicability* relate to whether a finding is *actually true*? 
+- What does the (taxpaying, research funding) public expect?
 :::
 
 # Looking forward
