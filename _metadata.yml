@@ -18,6 +18,7 @@ format:
     link-external-icon: true
     citations-hover: true
     reference-location: document
+    multiplex: true
 knitr:
   opts_chunk:
     fig.path: include/fig/
